@@ -3,9 +3,8 @@ title: "Statistics 999: Generic Statistics Class"
 subtitle: "UC Berkeley, Spring 2024"
 listing:
   - id: schedule
-    contents: schedule.yml
-  - id: lab
-    contents: scheduled-docs_files/lab-docs.yml
+    template: assets/schedule.ejs
+    contents: scheduled-docs_files/scheduled-docs.yml
   - id: buttons
     template: assets/buttons.ejs
     contents: buttons.yml
@@ -22,11 +21,6 @@ We could provide a templated listing of instructors here (or on its own page), s
 ::: {.callout-note title="Welcome to Week 2"}
 Things are picking up now.
 :::
-
-## Test
-::: {#lab}
-:::
-
 
 
 ## Schedule
