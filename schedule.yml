@@ -1,6 +1,7 @@
 scheduled-docs:
   draft-after: 5/31/24
   timezone: '-07:00'
+  debug: true
   weeks:
   - number: 1
     days:
